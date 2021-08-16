@@ -1,13 +1,9 @@
-.top-section {
-  background-color: $peach-color;
-  margin-bottom: 39px;
-}
-
 .header {
   display: flex;
   justify-content: space-between;
   height: 64px;
   align-items: center;
+  margin-top: 39px;
   background-color: $white;
 
   @include desctop {

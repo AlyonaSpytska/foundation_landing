@@ -68,7 +68,7 @@
   }
 
   &__images:not(:last-child) {
-    margin-right: 10px;
+    margin-right: 5px;
   }
 
   &__additional-nav {
@@ -95,7 +95,7 @@
   }
 
   &__title {
-    margin: 16px 0;
+    margin: 16px 0 22px;
 
     @include desctop {
       margin-top: 28px;
@@ -108,7 +108,7 @@
   }
 
   &__element {
-    margin-bottom: 19px;
+    margin-bottom: 18px;
   }
 
   &__item {
