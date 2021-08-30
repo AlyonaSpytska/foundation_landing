@@ -99,7 +99,4 @@ body {
 
 .top-section {
   background-color: $peach-color;
-  @include desctop {
-    padding-top: 39px;
-  }
 }
