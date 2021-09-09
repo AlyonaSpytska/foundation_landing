@@ -38,7 +38,7 @@
 
     @include desctop {
       border: none;
-      justify-content: end;
+      justify-content: flex-start;
     }
 
     &:last-child {
